@@ -1,0 +1,17 @@
+{
+    "name": "tusha/moderna",
+    "autoload": {
+        "psr-4": {
+            "Tusha\\Moderna\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sharvari Role",
+            "email": "sharvari.patilrole@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.10"
+    }
+}
